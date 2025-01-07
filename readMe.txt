@@ -1,1 +1,1 @@
-Student_Loan_Services
+A Java - Spring Boot Back-End application for students to apply for loans which can be then reviewed by the Bank Representatives and Bank Admins who can approve/reject the applications. The project implements the key design patterns such as the Observer, Strategy, Command, Decorator, Factory and the Interceptor design patterns.
